@@ -62,7 +62,7 @@ f) WEB  also  has  OOPS  concepts.
 
 g)  It  is  learnable.
 
-h)  It  is    easy  to  write   a  namespace  than
+h)  It  is    easy  to  write   a  WEB  namespace Program  than
 
 writing   a    webservice  program.
 
