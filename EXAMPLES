@@ -1,0 +1,128 @@
+
+Question: 
+--------
+
+Create   a  User   defined  themes   and   Designs   and   add  themes  and   Designs
+
+in  JStar   Program  ,  What  happens ?
+
+Note:
+-----
+All   web   Programs    has   .Web   Extension
+
+and   all  the    output   is    seen   in  .WEB  extension  
+
+after   Remote  server   compilation.
+
+.WEB  is   the  encryted  one   which  remote  server   compiles   the    encrypted
+
+format.
+
+and  .Web  is  the   Web   Source   code.
+
+
+
+EXAMPLE1: theme1.Web
+--------
+
+ <WEB>
+            
+<WPACK>
+
+<%
+
+public  class  theme1
+
+{
+  public void  WEB-Main( ) throws <EXE>
+  
+  {
+  HTML.displayhtml("theme.html");//invoke  html  forms 
+  
+  }
+
+
+}
+%>
+
+
+</WEB>
+
+
+
+EXAMPLE2:   design.Web
+-------------------------
+
+<WEB>
+            
+<WPACK>
+
+<%
+
+public  class  design
+
+{
+  public void  WEB-Main( ) throws <EXE>
+  
+  {
+  HTML.displayhtml("design1.html");//invoke  html  forms 
+  
+  }
+
+
+}
+%>
+
+
+</WEB>
+
+
+JSTAR  program:
+--------------
+
+
+
+
+<JSTAR>
+
+<WPACK>
+
+<LOGIC>
+
+
+public  class  Register1
+
+{
+
+
+public void  CDOLLAR-Main( ) throws <EXE>
+{
+
+CDollar.out.println(""+HTML.urlcontents("http://localhost:8080/WEB2016/WEB/theme1.WEB"));
+
+//invoke  the  contents   of   Web or  Web namespace url  and  print  it.
+
+HTML.displayhtml("bill7.html");//invoke  html  forms  
+
+}   
+
+}
+
+</LOGIC>
+</JSTAR>
+
+
+OUTPUT:
+------
+
+Design/  Theme   of   Web  is  applied   to    JSTAR Program  results  in  beautiful designs  
+
+and  themes.
+
+
+
+References:
+-----------
+
+Refer  CDollar  and  JSTAR  fundamentals  before  studying  WEB  technology.
+
