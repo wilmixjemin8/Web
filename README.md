@@ -4,7 +4,7 @@
 WEB
 ---
 
-WEB   is   the  Most  Standard  Technology for  WEB  invented  by  wilmix  jemin  j   at   OCT  2015 to   develop  a    webpage.
+WEB   is   the  Most  Standard  Technology for  WEB  invented  by  wilmix  jemin  j in  JDollar  at   OCT  2015 to   develop  a    webpage.
 
 Today   by  using   html  standards results   in   hackers  access.
 
