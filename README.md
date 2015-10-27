@@ -106,7 +106,7 @@ important  tools  for  Security.
 
 s)  Includes  all  CDollar  Advantages.
 
-t)  It  uses   multiprotocols  than  Internet.
+t)  It  uses   multiprotocols  like  Internet..
 
 u)   It  is   Protocol  specific   for  encryption.
 
@@ -177,5 +177,5 @@ Since   WML  is  not   opensource  due   to   userfriendly  design.
 
 AND  Web  is   the  Last   Technology   of  JDollar.
 
-
+=============================END   OF   JDOLLAR   TECHNOLOGIES===============================================
 
