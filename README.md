@@ -177,5 +177,5 @@ Since   WML  is  not   opensource  due   to   userfriendly  design.
 
 AND  Web  is   the  Last   Technology   of  JDollar.
 
-=============================END   OF   JDOLLAR   TECHNOLOGIES===============================================
+====================END   OF   JDOLLAR   TECHNOLOGIES========================
 
