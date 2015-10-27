@@ -11,19 +11,11 @@ WEB   is   the  Most  Standard  Technology for  WEB  invented  by  wilmix  jemin
 
   OCT  2015 to   develop  a    webpage.
 
-Today   by  using   html  standards results   in   hackers  access.
-
-And  virus  penetrate   through  html.  and  due  to  this  results  
-
-in  loss  of  business.
-
-So  Web  is  used  instead  of  html.
-
 Web  is  used   instead  of  today   internet   tools   which    is  not    fast.
-
 
 Expansion  of  WEB  is  "Wilmix   Encryption  for  Business".
 
+It   is  one   of  the  Cross  Technology.
 
 
 SYNTAX:
@@ -86,7 +78,7 @@ k) So  a  Client  can  kept  any   secret  data  in  (WEB)  namespace  url  and
 so  it  can  be  reused  for  futhure  use.
 
 
-l) It  is  used   to  convert   a   style  sheet  or  any  html  form   to  a 
+l) It  is  used   to  convert   a   style  sheet  or  any   WML form   to  a 
 
 encrypted  format.
 
