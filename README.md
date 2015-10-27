@@ -19,7 +19,7 @@ in  loss  of  business.
 
 So  Web  is  used  instead  of  html.
 
-Web  is  used   instead  of  internet.
+Web  is  used   instead  of  today   internet   tools   which    is  not    fast.
 
 
 Expansion  of  WEB  is  "Wilmix   Encryption  for  Business".
