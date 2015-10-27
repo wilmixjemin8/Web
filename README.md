@@ -124,6 +124,8 @@ a   framework  and  very  fast  user  interface  design and  it  will  act  like
 
 WML  is  invented  by   wilmix  jemin  j  at  JDollar(J$)  Technology   at  october  2015.
 
+WML   is   a    Jesus  christ  wisdom.
+
 It  saves   time   and  cost.
 
 WML  has   extension  as  .wml.
@@ -151,7 +153,7 @@ ADVANTAGES
 
 -->  it  requires  no knowledge  of   studying  CDollar,etc.
 
--->   It's   url  can  be  called like  a   webservice  in any  Program  say  JAVA,Dotnet,PHP,etc.
+-->   It's   url  can  be  called like  a   webservice  in any  Program  say  JAVA,Dotnet,PHP  or  any  program,etc.
 
 --->  It  is    one  of  the  Most  Advanced  Interface  Design  Langauage.
 
@@ -170,9 +172,10 @@ References:
 
 ->User   Must   Learn  WML  language 
 
+Note:   WML   syntax   and  outputs  will  not  be   shown.
+Since   WML  is  not   opensource  due   to   userfriendly  design.
 
-
-
+AND  Web  is   the  Last   Technology   of  JDollar.
 
 
 
