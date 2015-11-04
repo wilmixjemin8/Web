@@ -157,7 +157,7 @@ ADVANTAGES
 
 so  WEB Technology  is   a  NO:1  for  User Friendly Interface  design.
 
--->  IT  also   accept   any  JSON  values   and  allow  angular js  to  eavaluate  it.
+-->  IT  also   accept   any  JSON  values   and  allow  angular js  to  evaluate  it.
 
 so  WEB  is   also used   with   Angualarjs.
 
