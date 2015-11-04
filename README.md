@@ -159,7 +159,7 @@ so  WEB Technology  is   a  NO:1  for  User Friendly Interface  design.
 
 -->  IT  also   accept   any  JSON  values   and  allow  angular js  to  evaluate  it.
 
-so  WEB  is   also used   with   Angualarjs.
+so  WEB  is   also used   with   Angularjs.
 
 ->  IT  also   has   all  the  property  which  java  had   and   most  advanced  than  java/j2ee.
 
