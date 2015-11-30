@@ -75,3 +75,22 @@ WEB.Writeln(HTML.urlcontents("https://www.google.co.in"));
 
 </WEB>
 
+Program-2
+----------
+
+Write  a  WML  Program   and  print  the form  in  Google  browser...
+
+ house2.wml
+ ----------
+
+<WML>
+<FORM TITLE='WILMIXjeminhhb1k  FORM'  Method='post' Url='http://localhost:8090/WEB2016/WEB/design5.WEB'
+	  color='green'  Tcolor='gold' Name = 'ADD House / SHOP'  GUICount='11'  Password='no' Space='yes'
+		  Type='submit'  fields='{House/Shop{H/S},HouseNo/ShopNo,Occupant Name,Occupant Date,Advanced Payment,Amount Paid,Monthly Rent,EB Reading Last month, EB Reading This month,Rent Paid Date,Maintenance Charge,Other Maintenance Charge if any}' 
+		  GUI='text'  Names='http://localhost:8080/jeminprograms/WSIT/wstar/wil12.wstar' Input ='{ROWS,COLS}'/>
+
+</WML>
+
+
+
+
