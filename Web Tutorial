@@ -1,0 +1,77 @@
+
+Program-1
+-----------
+
+Write  a  Program   to Display the  parameters   at  the  Google  site  url:-
+
+
+ <WEB>
+            
+<WPACK>
+<JDollar-WDBA>
+<%
+
+
+public class  example
+{
+
+
+
+
+  public void  WEB-Main( ) throws <EXE>
+
+{
+
+
+
+WEB.Writeln("<topic> Form1 </topic>");
+WEB.Writeln("<BODY>");
+<AList> arm=  <NEW> <AList>();
+
+
+
+
+
+
+
+
+<Str>  mp = remoteusers.getRequestParam ("AJAX1.cl.dsn"); //takes  the   Parameter  values
+
+<Str> g="";
+<StrToken>  st= <NEW> <StrToken> (mp,"=");
+
+while (st.hasMoreTokens())
+{
+<OBJECT>  el=   st.nextToken();  //split  the  parameters  into  tokens
+
+g=el.StringConvert();
+<StrToken>  st11= <NEW> <StrToken> (g,"&");
+while (st11.hasMoreTokens())
+
+{
+
+<OBJECT>  el1=   st11.nextToken();
+
+
+arm.add(el1); //  add  the  values   to  arraylist
+}
+
+}
+
+
+
+WEB.Writeln("</BODY>");
+
+WEB.Writeln(HTML.urlcontents("https://www.google.co.in"));
+
+ }
+
+
+
+} 
+
+%>
+
+
+</WEB>
+
