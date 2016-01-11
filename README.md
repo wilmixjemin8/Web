@@ -17,9 +17,9 @@ Expansion  of  WEB  is  "Wilmix   Encryption  for  Business".
 
 W  stands  for  wilmix  hence  it is  invented  by  wilmix.  To make  the name  attractive   we  name  it  "WEB".
 
-but   it  is    cross  technology.
+but   it  is not  a    cross  technology ;  since  it  is not  released   at any  Holyday.
 
-It   is  one   of  the  Cross  Technology.
+
 
 
 SYNTAX:
