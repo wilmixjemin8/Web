@@ -98,7 +98,7 @@ Program-3:
 <WEB>
             
 <WPACK>
-<JDollar-WDBA>
+<JDollar-WDBA> //loading   JDollar WDBA  connections  if any
 <%
 
 public  class  house4
