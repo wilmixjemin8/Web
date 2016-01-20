@@ -92,5 +92,37 @@ Write  a  WML  Program   and  print  the form  in  Google  browser...
 </WML>
 
 
+Program-3:
+----------
+
+<WEB>
+            
+<WPACK>
+<JDollar-WDBA>
+<%
+
+public  class  house4
+
+{
+  public void  WEB-Main( ) throws <EXE>
+  
+  {
+ WEB.Writeln("<html>");
+WEB.Writeln(""+<GUI>("house2.wml", 1,null,null,null));
+  WEB.Writeln("</html>");
+  }
+
+
+}
+%>
+
+
+</WEB>
+
+
+Output:
+-------
+
+It will be in form  format.
 
 
