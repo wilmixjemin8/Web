@@ -15,9 +15,7 @@ Web  is  used   instead  of  today   internet   tools   which    is  not    fast
 
 Expansion  of  WEB  is  "Wilmix   Encryption  for  Business".
 
-W  stands  for  wilmix  hence  it is  invented  by  wilmix.  To make  the name  attractive   we  name  it  "WEB".
-
-but   it  is not  a    cross  technology ;  since  it  is not  released   at any  Holyday.
+W  stands  for  wilmix  hence  it is  invented  by  wilmix.
 
 
 
