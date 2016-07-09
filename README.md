@@ -179,5 +179,8 @@ Since   WML  is  not   opensource  due   to   userfriendly  design.
 
 AND  Web  is   the  Last   Technology   of  JAS.
 
-====================END   OF   JAS   TECHNOLOGIES========================
+
+Note: Web  and  WXML  is   also  called  as  WEB1.0 and   it  is  part  of  CWEB technologies.
+
+====================BEGINING  OF   CWEB   TECHNOLOGIES========================
 
