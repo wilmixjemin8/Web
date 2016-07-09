@@ -7,7 +7,7 @@ ABOUT WEB AND WML
 WEB
 ---
 
-WEB   is   the  Most  Standard  Technology for  WEB  invented  by  wilmix  jemin  j  in  JDollar at 
+WEB   is   the  Most  Standard  Technology for  WEB  invented  by  wilmix  jemin  j  in  JAS at 
 
   OCT  2015 to   develop  a    webpage.
 
@@ -55,7 +55,7 @@ d)  WEB  contains  beautiful  designs  and Themes  .
 
 e)  WEB  also  act  as  DYNAMIC  HTML  and  it   can
 
-interact  with  security   DATABASE  WDBAJ$.
+interact  with  security   DATABASE  WDBAJAS.
 
 f) WEB  also  has  OOPS  concepts.
 
@@ -90,7 +90,7 @@ n) Encrypted   data   from   WEB  is    used   for   constructing
 
 GRAPHS   ,  Report,  charts, etc.
 
-0) IT  directly  interact   with  JDollar  ,WDBAJ$ , JAVA ,  .Net  ,and  all  Latest  Technologies  of  JDollar.
+0) IT  directly  interact   with  JAS  ,WDBAJAS , JAVA ,  .Net  ,and  all  Latest  Technologies  of  JAS.
 
 p) IT  is  used  to  display  contents  of  Youtube  and  games....
 
@@ -116,7 +116,7 @@ WML  is  "Wilmix Manipulation Language"  used  with  WEB  technology  as
 
 a   framework  and  very  fast  user  interface  design and  it  will  act  like  a   userfriendly  framework.
 
-WML  is  invented  by   wilmix  jemin  j  at  JDollar(J$)  Technology   at  october  2015.
+WML  is  invented  by   wilmix  jemin  j  at  JAS(JAS)  Technology   at  october  2015.
 
 WML   is   a    Jesus  christ  wisdom.
 
@@ -177,7 +177,7 @@ References:
 Note:   WML   syntax   and  outputs  will  not  be   shown.
 Since   WML  is  not   opensource  due   to   userfriendly  design.
 
-AND  Web  is   the  Last   Technology   of  JDollar.
+AND  Web  is   the  Last   Technology   of  JAS.
 
-====================END   OF   JDOLLAR   TECHNOLOGIES========================
+====================END   OF   JAS   TECHNOLOGIES========================
 
