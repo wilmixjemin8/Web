@@ -7,7 +7,7 @@ ABOUT WEB AND WML
 WEB
 ---
 
-WEB   is   the  Most  Standard  Technology for  WEB  invented  by  wilmix  jemin  j  in  JAS at 
+WEB   is   the  Most  Standard  Programming Language for  WEB  invented  by  wilmix  jemin  j  in  JDollar   at 
 
   OCT  2015 to   develop  a    webpage.
 
@@ -15,7 +15,7 @@ Web  is  used   instead  of  today   internet   tools   which    is  not    fast
 
 Expansion  of  WEB  is  "Wilmix   Encryption  for  Business".
 
-W  stands  for  wilmix  hence  it is  invented  by  wilmix.
+W  stands  for  wilmix  hence  it is  invented  by  wilmix jemin j.
 
 
 
@@ -49,13 +49,13 @@ b) Web  uses   namespace  url  so any   program   can   use   the
 
 the  Web  for  security  purpose.
 
-c)  Web   is   used   in  cloud  computing  and  mobile  cloud computing
+c)  Web   is   used  to  be  deploy  in  cloud  computing  and  mobile  cloud computing
 
 d)  WEB  contains  beautiful  designs  and Themes  .
 
 e)  WEB  also  act  as  DYNAMIC  HTML  and  it   can
 
-interact  with  security   DATABASE  WDBAJAS.
+interact  with  security   DATABASE  WDBAJ$.
 
 f) WEB  also  has  OOPS  concepts.
 
@@ -84,13 +84,13 @@ l) It  is  used   to  convert   a   style  sheet  or  any   WML form   to  a
 
 encrypted  format.
 
-m)  IT  is  an  Interactive  technology  and  a   friendly  one.
+m)  IT  is  an  Interactive Programming Language  and  a   friendly  one.
 
 n) Encrypted   data   from   WEB  is    used   for   constructing  
 
 GRAPHS   ,  Report,  charts, etc.
 
-0) IT  directly  interact   with  JAS  ,WDBAJAS , JAVA ,  .Net  ,and  all  Latest  Technologies  of  JAS.
+0) IT  directly  interact   with  JAS ,JDollar, ,WDBAJAS , JAVA ,  .Net  ,and  all  Latest  Technologies  of  JAS.
 
 p) IT  is  used  to  display  contents  of  Youtube  and  games....
 
@@ -116,9 +116,7 @@ WML  is  "Wilmix Manipulation Language"  used  with  WEB  technology  as
 
 a   framework  and  very  fast  user  interface  design and  it  will  act  like  a   userfriendly  framework.
 
-WML  is  invented  by   wilmix  jemin  j  at  JAS(JAS)  Technology   at  october  2015.
-
-WML   is   a    Jesus  christ  wisdom.
+WML  is  invented  by   wilmix  jemin  j  at  JDollar(JDollar)  Programming  Language   at  october  2015.
 
 It  saves   time   and  cost.
 
@@ -153,9 +151,9 @@ ADVANTAGES
 
 --->  it  is  a   learnable   and  amazing  language...
 
---->  WML  is   used  with   WEB  Technology. Since  it  is  a  part  of  WEB  Technology.
+--->  WML  is   used  with   WEB P.L. Since  it  is  a  part  of  WEB  P.L.
 
--->  IT is   reusable  and  plays   a   more   advantage   to   IT  and  WSIT field.
+-->  IT is   reusable  and  plays   a   more   advantage   to   IT  and  WRIT field.
 
 so  WEB Technology  is   a  NO:1  for  User Friendly Interface  design.
 
