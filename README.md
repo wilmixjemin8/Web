@@ -7,7 +7,7 @@ ABOUT WEB AND WML
 WEB
 ---
 
-WEB   is   the  Most  Standard  Programming Language for  WEB  invented  by  wilmix  jemin  j  in  JDollar   at 
+WEB   is   the  Most  Standard  Programming Language for  WEB  invented  by  wilmix  jemin  j  in  JAS   at 
 
   OCT  2015 to   develop  a    webpage.
 
@@ -90,15 +90,15 @@ n) Encrypted   data   from   WEB  is    used   for   constructing
 
 GRAPHS   ,  Report,  charts, etc.
 
-0) IT  directly  interact   with  JAS ,JDollar, ,WDBAJAS , JAVA ,  .Net  ,and  all  Latest  Technologies  of  JAS.
+0) IT  directly  interact   with  JAS ,JAS, ,WDBAJAS , JAVA ,  .Net  ,and  all  Latest  Technologies  of  JAS.
 
 p) IT  is  used  to  display  contents  of  Youtube  and  games....
 
-q) IT  is  mostly  used  in   WSIT  field  ,  IT Field;  and  serve  as  an
+q) IT  is  mostly  used  in   SIT  field  ,  IT Field;  and  serve  as  an
 
 important  tools  for  Security.
 
-s)  Includes  all  CDollar  Advantages.
+s)  Includes  all  GDollar  Advantages.
 
 t)  It  uses   multiprotocols  like  Internet..
 
@@ -116,7 +116,7 @@ WML  is  "Wilmix Manipulation Language"  used  with  WEB  technology  as
 
 a   framework  and  very  fast  user  interface  design and  it  will  act  like  a   userfriendly  framework.
 
-WML  is  invented  by   wilmix  jemin  j  at  JDollar(JDollar)  Programming  Language   at  october  2015.
+WML  is  invented  by   wilmix  jemin  j  at  JAS(JAS)  Programming  Language   at  october  2015.
 
 It  saves   time   and  cost.
 
@@ -143,7 +143,7 @@ ADVANTAGES
 
 -->  It  will  manage  automatically  the   forms,  reports,etc.
 
--->  it  requires  no knowledge  of   studying  CDollar,etc.
+-->  it  requires  no knowledge  of   studying  GDollar,etc.
 
 -->   It's   url  can  be  called like  a   webservice  in any  Program  say  JAVA,Dotnet,PHP  or  any  program,etc.
 
@@ -168,7 +168,7 @@ so  WEB  is   also used   with   Angularjs.
 References:
 -----------
 
-->Refer  CDollar  fundamentals  before  studying  WEB  technology.
+
 
 ->User   Must   Learn  WML  language 
 
