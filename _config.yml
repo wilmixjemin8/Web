@@ -1,0 +1,8 @@
+title: Web with  WML
+description: WEB  with WML  is   the  Most  Standard  Programming Language for  WEB  invented  by  wilmix  jemin  j   at   OCT  2015 to   develop  a    webpage.
+google_analytics: 
+show_downloads: true
+theme: jekyll-theme-architect
+
+gems:
+  - jekyll-mentions
