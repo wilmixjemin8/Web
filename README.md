@@ -252,8 +252,9 @@ References:
 
 ->User   Must   Learn  WML  language 
 
-Note:   WML   syntax   and  outputs  will  not  be   shown.
-Since   WML  is  not   opensource  due   to   userfriendly  design.
+Note:   WML   syntax   and  outputs  will   be   shown  but  for  more  detail about  web1.0 remote webservice 
+  can  be  seen  at  Enterprise Edition not  at WEB1.0 and  WML professional  edition.  
+Since WEB1.0  and  WML for  Enterprise Edition is  not   opensource  due   to   userfriendly  design.
 
 
 
