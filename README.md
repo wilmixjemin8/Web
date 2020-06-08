@@ -261,5 +261,15 @@ Since WEB1.0  and  WML for  Enterprise Edition is  not   opensource  due   to   
 
 Note: Web  and  WXML  is   also  called  as  WEB1.0 and   it  is  part  of  CWEB technologies.
 
+
+Note:
+=====
+
+Web1.0 and WML Webservice Tutorial main url:
+
+https://sites.google.com/site/web10programminglanguage/home
+
+
+
 ====================BEGINING  OF   CWEB   TECHNOLOGIES========================
 
