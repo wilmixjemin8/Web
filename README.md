@@ -1,15 +1,15 @@
-# Web and  WML
+# Web1.0 and  WML
 --------------
 
-ABOUT WEB AND WML
+ABOUT WEB1.0 AND WML
 -----------------
 
-WEB
+WEB1.0
 ---
 
-WEB   is   the  Most  Standard  Programming Language for  WEB  invented  by  wilmix  jemin  j  in  JAS   at 
+WEB1.0   is   the  Most  Standard  Programming Language for  RemoteWebservice  invented  by  wilmix  jemin  j  in  JAS   at 
 
-  OCT  2015 to   develop  a    webpage.
+  OCT  2015 to   develop  a   Remotewebservice.
 
 Web  is  used   instead  of  today   internet   tools   which    is  not    fast.
 
@@ -163,7 +163,87 @@ so  WEB  is   also used   with   Angularjs.
 
 ->  IT  also   has   all  the  property  which  java  had   and   most  advanced  than  java/j2ee.
 
+WEB1.0-WML-FORMS
+================
 
+house.wml
+==========
+
+<WML>
+<FORM TITLE='WILMIXjeminhhb1k FORM' Method='post' Url=''
+color='green' Tcolor='gold' Name = 'ADD House / SHOP' GUICount='11' Password='no' Space='yes'
+Type='submit' fields='{House/Shop{H/S},HouseNo/ShopNo,Occupant Name,Occupant Date,Advanced Payment,Amount Paid,Monthly Rent,EB Reading Last month, EB Reading This month,Rent Paid Date,Maintenance Charge,Other Maintenance Charge if any}'
+GUI='text' Names='http://localhost:8080/jeminprograms/WSIT/wstar/wil12.wstar' Input ='{ROWS,COLS}'/>
+// Name => form tittle
+// Tcolor => textcolor gold
+//fields => fields of form..
+//GUI => text means text box
+//GUICount => no of Text box GUI required (0 indicates 1 and 1 indicates 2 text //field and so-on)
+//Space='yes' ; means it print space....
+//color=background color
+</WML>
+
+Example-4  : Displaying  Web1.0 Webservice  as  a  Form
+==========
+
+
+house4.Web
+==========
+
+<WEB>
+<WPACK>
+<%
+public class house4
+{
+public void WEB-Main( ) throws <EXE>
+{
+WEB.Writeln("<html>"); //WEb.Writeln is used to print the String to webpage...
+// <GUI> indicates call GUI forms or reports and 1 indicates Form
+// and 2 indicates table and 3 for report and 4 for Bill..
+WEB.Writeln(""+<GUI>("house2.wml", 1,null,null,null));
+WEB.Writeln("</html>");
+}
+}
+%>
+</WEB>
+
+
+Explanation:
+=============
+
+
+<WML>  is  the  tag  for  WML mini sub programming language which is part  of  WEB1.0  webService ..
+
+
+We  already  knows  the  html form  tags  simillar to  WML . TITLE represents  form Title and  url  represent  post /get  url
+
+<FORM TITLE='WILMIXjeminhhb1k FORM' Method='post' Url=''
+
+
+// color represent  background color  for  form and  Tcolor represent Text box layout colour
+
+//Name  represent  Name of  the  Form , GUICount =11  means  12  text box  will be assigned to WML layout
+
+// Password =no  means  textbox  type  is  not  password and Space means after  the  textboxes  Space  will  be assigned.   
+color='green' Tcolor='gold' Name = 'ADD House / SHOP' GUICount='11' Password='no' Space='yes'
+
+
+// GUICount =11 ie) 12 textbox so you must  enter  12  fields  as  in  Fields  and  Type='submit'  means the  button type is  submit.
+
+   Type='submit'  fields='{House/Shop{H/S},HouseNo/ShopNo,Occupant Name,Occupant Date,Advanced Payment,Amount Paid,Monthly Rent,EB Reading Last month, EB Reading This month,Rent Paid Date,Maintenance Charge,Other Maintenance Charge if any}' 
+
+
+// GUI='text means Textbox  in html ; Input ='{ROWS,COLS}' means  layout  with  ROWS and  COLS  arrangement.
+
+ GUI='text' Names='http://localhost:8080/jeminprograms/WSIT/wstar/wil12.wstar' Input ='{ROWS,COLS}'/>
+
+
+</WML>  means  equivalent  to  </html>
+
+
+
+Note:  This  WML  program  explains  that  WEB1.0 Webservice used as a  Form Types.
+======
 
 References:
 -----------
